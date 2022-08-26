@@ -1,0 +1,46 @@
+class alphabets{
+    total=10;
+    a(){
+        console.log("A");
+    }
+    b(){
+        console.log("B");
+    }
+    c(){
+        console.log("C");
+    }
+    d(){
+        console.log("D");
+    }
+    e(){
+        console.log("E");
+    }
+    f(){
+        console.log("F");
+    }
+    g(){
+        console.log("G");
+    }
+    h(){
+        console.log("H");
+    }
+    i(){
+        console.log("I");
+    }
+    j(){
+        console.log("J");
+    }
+}
+let a3= new alphabets();
+console.log(a3);
+console.log(a3.total);
+a3.a();
+a3.b();
+a3.c();
+a3.d();
+a3.e();
+a3.f();
+a3.g();
+a3.h();
+a3.i();
+a3.j();
